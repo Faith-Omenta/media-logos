@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    padding: 200px 600px;
+    margin: auto;
+}
+
+.pinterest-logo{
+    background: red;
+    border-radius: 60%;
+    width: 100px;
+    height: 100px;
+}
+
+.fa-pinterest-p{
+    font-size: 5em;
+    padding: 15px;
+    color: white;
+}
